@@ -1,0 +1,50 @@
+Resumen del video de la tarea 
+
+En el video se explica qué es Git y para qué sirve. Git es un sistema de control de versiones que permite llevar un registro de todos los cambios que se hacen en un proyecto, especialmente en proyectos de programación. Funciona como una especie de máquina del tiempo, porque guarda versiones del proyecto y permite volver a estados anteriores si algo sale mal.
+
+También se menciona que Git fue creado por Linus Torvalds y que es muy utilizado en el desarrollo de software porque permite que varias personas trabajen en el mismo proyecto sin perder información. Git guarda los cambios mediante “snapshots” o fotografías del proyecto en determinados momentos.
+
+En el video también se explican conceptos importantes como el working directory, el staging area y el repositorio. Además, se muestran los comandos básicos que se utilizan para iniciar un repositorio, agregar archivos, guardar cambios y enviarlos a un repositorio remoto.
+
+
+
+Responder las siguientes preguntas
+
+1. ¿Qué es Git?
+Git es un sistema de control de versiones que permite registrar y controlar los cambios que se hacen en un proyecto. Sirve para guardar diferentes versiones del trabajo y poder regresar a una versión anterior si es necesario.
+
+
+2. ¿Cuáles son los comandos más importantes y para qué sirven?
+
+git init: inicia un repositorio nuevo.
+
+git status: muestra el estado actual de los archivos.
+
+git add: agrega archivos al área de preparación.
+
+git commit: guarda los cambios como una versión del proyecto.
+
+git clone: copia un repositorio remoto a la computadora.
+
+git push: envía los cambios al repositorio remoto.
+
+
+
+3. ¿Cuál es la diferencia entre Git y GitHub?
+
+Git es el sistema que se instala en la computadora y permite controlar versiones.
+GitHub es una plataforma en línea que permite almacenar los repositorios creados con Git y compartirlos con otras personas.
+
+
+4. Enumere los comandos para subir cambios a un repositorio.
+
+git add .
+
+git commit -m "mensaje"
+
+git push
+
+
+5. ¿Qué es una branch?
+
+Una branch es una rama dentro de un proyecto que permite trabajar en una versión diferente sin afectar la principal. Sirve para desarrollar nuevas funciones o hacer pruebas sin modificar directamente la versión principal.
